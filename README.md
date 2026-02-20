@@ -60,9 +60,9 @@ Test the performance of the webpage after deploy by using [GTmetrix](https://gtm
 
 ### 👋 Get In Touch
 
-- [🌐 Website 👉 https://amr-elshabrawy-dev.github.io](https://amrelshabrawydev.github.io)
+- [🌐 Website 👉 https://amrelshabrawydev.github.io](https://amrelshabrawydev.github.io)
 - [👔 LinkedIn 👉 https://www.linkedin.com/in/amr-elshabrawy-dev](https://www.linkedin.com/in/amr-elshabrawy-dev)
-- [🌟 Github 👉 https://github.com/Amr-Elshabrawy-Dev](https://github.com/AmrElshabrawyDev)
+- [🌟 Github 👉 https://github.com/AmrElshabrawyDev](https://github.com/AmrElshabrawyDev)
 - [📧 Gmail 👉 amrelshabrawy.dev@gmail.com](mailto:amrelshabrawy.dev@gmail.com)
 - [🐤 Twitter 👉 https://twitter.com/AmrElshbrawy217](https://twitter.com/AmrElshbrawy217)
 - [☎️ Whatsapp 👉 (+20) 120-254-6653](https://api.whatsapp.com/send/?phone=%2B2001202546653&text&type=phone_number&app_absent=0)
